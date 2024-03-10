@@ -1,0 +1,1 @@
+Ce projet est un système web de gestion d'utilisateurs qui gère l'inscription, la connexion et la visualisation de profil, utilisant HTML pour l'interface visuelle, PHP pour la logique serveur et MySQL pour le stockage des données.
